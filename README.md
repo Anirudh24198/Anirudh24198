@@ -6,20 +6,24 @@ I'm a third-year B.Tech student in AI & Data Science, building things that sit s
 
 - 🐍 Python, TypeScript, C, web dev
 - ⚡ FastAPI, Firebase, Electron + Vite
-- 📊 WEKA, data classification, basic MATLAB
+- 📊 WEKA, data classification, postgres
 - 🌐 WordPress (custom template development)
 - 🔧 Git & GitHub
 
 ## 🚀 Projects
 
+**Zestay**
+Built an AI-driven flatmate and room-finding platform for India that matches users by lifestyle compatibility instead of relying on brokers or unstructured social media groups. Platform features a 12+ parameter lifestyle questionnaire generating a Match Score, dual search flows (find a room/PG or find a flatmate), verified profiles (ID, phone, and photo checks), direct in-app messaging, and a 
+property owner portal. 
+
 **Zestay-Hostel**
 Institutional hostel management software (B2B), built with Electron + Vite. Started as a B2C roommate-matching concept before pivoting toward institutional clients. Also pitched in startup competitions with investor-facing framing and financial projections.
 
 **InterviewAI**
-A personal tool to sharpen interview skills — FastAPI + Firebase + Anthropic Claude API + vanilla JS. Built to generate and evaluate mock interview practice.
+A personal tool to sharpen interview skills — FastAPI + Firebase + Gemini API + vanilla JS. Built to generate and evaluate mock interview practice.
 
 **StarForge**
-A citizen science space exploration platform — FastAPI + Firebase + Cloudinary + vanilla JS. Built with teammates Sreejith, Suyash, and Adithyan Nair.
+A citizen science space exploration platform — FastAPI + Firebase + Cloudinary + vanilla JS..
 
 
 **Amogha Foundation Website**
