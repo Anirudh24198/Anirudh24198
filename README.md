@@ -33,7 +33,11 @@ Built a custom WordPress template for an NGO client as part of an internship —
 
 I like building things that actually get used — whether that's a hostel management app, an interview prep tool, or a space exploration platform with friends. Outside of code, I play soulslike games (Elden Ring, Sekiro, Lies of P) for the same reason I like debugging: pattern recognition and staying composed when things go wrong.
 
-![snake gif](https://raw.githubusercontent.com/Anirudh24198/Anirudh24198/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anirudh24198/Anirudh24198/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anirudh24198/Anirudh24198/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anirudh24198/Anirudh24198/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 > "Start where you are. Use what you have. Do what you can."
 
