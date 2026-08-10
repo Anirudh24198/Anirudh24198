@@ -4,7 +4,7 @@ I'm a third-year B.Tech student in AI & Data Science, building things that sit s
 
 ## 🛠️ Tech Skills
 
-- 🐍 Python, TypeScript, C
+- 🐍 Python, TypeScript, C, web dev
 - ⚡ FastAPI, Firebase, Electron + Vite
 - 📊 WEKA, data classification, basic MATLAB
 - 🌐 WordPress (custom template development)
