@@ -46,4 +46,5 @@ I like building things that actually get used — whether that's a hostel manage
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anirudh_nair24198/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-nair-07354b339/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhnair2006@gmail.com)
